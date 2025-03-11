@@ -1,3 +1,1 @@
-const appConfig = {
-    _uzTag: ''
-}
+1
