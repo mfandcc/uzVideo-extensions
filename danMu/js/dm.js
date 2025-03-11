@@ -7,6 +7,3 @@ const appConfig = {
         this._uzTag = value
     },
 }
-async function searchDanMu(item) {
-    return null
-}
